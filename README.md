@@ -53,7 +53,8 @@ Inspiration for the card level:
 Music and Sounds: 
 - https://youtu.be/T_Q3M6vpCAQ?si=UrChSaCsb8YTiCaG
 - https://youtu.be/-dXyWWlqwVQ?si=rjNYR0RJsJpFEXYM
-- 
+- https://youtu.be/BmLJ60owkX8?si=w7QbyqHnm8psZnMe
+- https://youtu.be/yEYxnJB4jZs?si=-lV4hm7mL6178Oo8 (Lost)
 Code used for reference: various materials on Professor Cross's GitHub
 - https://www.hashbangcode.com/article/using-events-tkinter-canvas-elements-python 
 - https://www.geeksforgeeks.org/dropdown-menus-tkinter/
